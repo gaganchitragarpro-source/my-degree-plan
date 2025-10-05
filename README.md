@@ -111,7 +111,7 @@
     <script>\
         const courseData = [\
             \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "MATH 1710", title: "Calculus I", notes: "UT Equivalent: M 408C" \},\
-            \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "PHYS 1710 & 1730", title: "Mechanics (+Lab)", notes: "UT Equivalent: PHY 303K & 105M" \},\
+            \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "PHYS 1710 & 1730", title: "Mechanics + (Lab)", notes: "UT Equivalent: PHY 303K & 105M" \},\
             \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "ENGL 1315", title: "College Writing I", notes: "Fulfills part of Core Curriculum" \},\
             \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "EENG 1910", title: "Engineering Foundations I", notes: "Covers intro ECE concepts" \},\
             \{ year: 1, semester: "Fall", institution: "TAMS/UNT", number: "HIST 2610", title: "US History to 1865", notes: "Fulfills part of Core Curriculum" \},\
